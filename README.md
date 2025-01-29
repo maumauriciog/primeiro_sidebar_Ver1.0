@@ -1,9 +1,9 @@
 # 🤝 Meu Primeiro Sidebar
-Este [e o meu primeiro projeto com sidebar.
+Este é o meu primeiro com sidebar. Não tem footer, mas o próximo terá.
 <b>
 # 📸 Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="assets/fig" width="250">&emsp;
+<img src="icons/figA.png" width="250">&emsp;
 
 # 💻 Tecnologias
 * HTML
