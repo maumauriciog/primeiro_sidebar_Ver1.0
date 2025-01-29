@@ -1,5 +1,5 @@
 # 🤝 Meu Primeiro Sidebar
-Este é o meu primeiro com sidebar. Não tem footer, mas o próximo terá.
+Este é o meu primeiro sidebar. Não tem footer, mas o próximo terá...
 <b>
 # 📸 Screenshots
 <!-- You can add more screenshots here if you like -->
