@@ -1,21 +1,16 @@
 # 🤝 Meu Primeiro Sidebar
-Este projeto   
+Este [e o meu primeiro projeto com sidebar.
 <b>
 # 📸 Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="assets/fig" width="250">&emsp;
-
-
-# 📲 Como Acessar o Aplicativo
-Para utilizar o aplicativo, click no link já publicado gratuitamente:
 
 # 💻 Tecnologias
 * HTML
 * CSS
 
 # 📖 TO DO
-- Melhorar estilização do site.
-
+- Melhorar estilização do projeto.
 
 ## 🧔 Author
 Maurício G (follow me on [Twitter](https://twitter.com/maumauriciog)).
